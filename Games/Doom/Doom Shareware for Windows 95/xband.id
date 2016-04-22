@@ -1,0 +1,8 @@
+[XBAND]
+GUID = "{16E98F70-1045-11CF-A4F0-00AA0060F461}"
+Title = "Doom 95"
+Description = "Doom For Windows 95"
+MajorRevisionNumber = 1
+MinorRevisionNumber = 0
+ExeFileName = "Doom95.exe -guid b219d8c3211211cf8822444553540000 -players 2"
+GamePlatform = 2
