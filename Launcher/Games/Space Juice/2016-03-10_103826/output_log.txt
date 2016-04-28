@@ -1,0 +1,361 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.262 seconds
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Innitialtiza enge engine versions 5.n:.2f1 (37573375737e9da7
+e7)
+GfxGevice: ccr crtintgngddevice cclient;; threadedd=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll into Unity Child Domain
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1175)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\MaBnaged\UnityEneini.networkong.dlgeir R enltyaChilsemblma
+n
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Eirikur\DPoplax\fSkola\År 2\Project software e\Dginropbox\Skola\År 2\iP porodt softwrre en 1\Launngineering PJ3100\Färdig produkt version 1\Launchpr\Gfyes\Spacdll iice\apntocaUnity Chia\Managed\U
+nityEngine.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\System.CoreMOD  a(this message is harmless)
+iled to initialize the output device, - Comalettdtremopting  o 0.403 seconths
+ null output.
+ 
+(Filename:  Line: 1175)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.dll into Unity Child DomaRI> Initializing input.
+<RI> Iniut initialized.
+n
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.343 seconds
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityECgira.h!!!U
+I.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+SymInit: Symbol-SearchPath: '.;C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\SpacePJlice;C:\Users\Eirikur\Dropbox\Skola\�r 2\Project satform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Projectasorewa engineering PJ310e engineering 0\F�rdig produkt version 1\Launcher\Games\Space Juice;C:\Windows;PJ3100\Färdig produkt v<rRio> 1\naun:\WindaiwlizSp\csysueice\aRV*C:atiebsymboa\Manttp:/Unity.Emicrosoft.com/dgw.loal /symbol message is;', symOpti
+ons: 530, UserName:e s\Eirikur'
+OS-VersiSoo:a\g�i.pu6r.o
+() 0xft0-rex1n
+ineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+<RI> Input initialiPed.tf
+orm assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikurdesktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.548 seconds
+<RI> Initialized touch support.
+C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application.exe:application.exe (00C70000), size: 16965632 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application.exe', fileVersion: 5.2.2.22320
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77370000), size: 1503232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.18202
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (76E30000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17415
+Craash!!!
+C:\Windows\SYSTEM32\KERNELBASE.dlS:KERNELBA S.dmb (-4Eear0c0), siz ' ;C:\Use40 (resultr: 0), SEimryikur\Dropbox\Skola\�r 2\Project software enginepring PJ3100e\F-rdig produkt versios\SYSTEu32\herNELaBmSe.dll'ace JuicrsCi\Us:r6s.\Eirikur18202p
+box\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice;C:\Windows;C:\WiCd:w\Wsyndeows;\RS*CS:\wTbsEmbolsHID.DLL:HID.DLL (70030000), size: http:0 msresulic r), SfmTypom '-exporad/sy'mbols;', :\Windows\SYSTymOptioIn.s:L53,, filerNamsi: 'Ei6.3.9600
+.17S4Ve5rs
+ion: 6.3.9600 () 0x300-0x1
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (755D0000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (77140000), size: 1388544 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.18123
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (74660000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.17415
+ymInit: Symbol-SearchPath: '.;C:\Users\Eirikur\Dropbox\SkolaC�:\Windows\SYSTEM32\ole32.dll:ole32.dll (758C0000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17905
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (76CB0000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\A2VAPIrojectl s:fAwDVAPI32adlr (74DD0000), size: 507904 (result: 0), SymType:e'- xpengide-',ng PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice;C:\UsersDEir 'Cr\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice;C:\Windows;C:\Windows\system32;SRW*i:nwebsymbols*dttpw/smsdl.\ScrYSoft.c32m\dADoAPlo2ad/s'm, lf;', syimOVprtion: 6.5330,00.18155
+e: 'Eirikur'
+OS-Version: 6.3.9600 () 0x300-0x1
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (75620000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.18155
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (759F0000), size: 19644416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.18205
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (6EAA0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (71C40000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74FD0000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.17560
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\DrCpb:x\Skoloa\�\rS2\PTEoM32\Msoftware engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity ChildCDomain
+M32.dll:MSACM32.dll (67270000), size: 942P8 (resul ta 0sem Sly: ype: '-exportekdr\D, PDB: 'kolaWindows\SYSTcE softwareM engine', fng PJ3100\Färdig pro.dukt ve
+rsion 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (753B0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (74330000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17481
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74310000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (743B0000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.17415
+Space Juice\applicat:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (753E0000), size: 798720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (751C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.17415
+ion_Data\Managed\Assembly-UnityScript.dll into Unity:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75070000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17919
+C::WUseindows\SYSTEM32\combase.dll:combase.rll (751D0000), size: 1560576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.18202
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (76D00000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\se hCst.dll', fileVersion: 6.3.9600.17734
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (6EA70000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+\Eirikur\:\Windrows\SYSTEM32\DDRAW.dll:DDRAW.dll (63FF0000), size: 966656 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (71C10000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Wind wsomain
+\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17415
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\ProjeFM software engineering PJ3100\Färdig produkt verC:\Windonws\SYST M32\MLCTun.dll:MGCmFs\Sl c7i54B0ze0), size:ut11_d2304 eanagetm:Uting to init: '-expoze rhe null output.
+ 
+(ndiwlename:  Linb:CT1175)
+
+F.dll', fileVersion: 6.3.9600.18081
+x\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application.exe:application.exe (00C70000), size: 1696Begin MonoManager ReloadAssembly
+C:\Windows\SYSTityEngine.UI.dll (this message is harmless)
+563L (drngsC:\User0), SrimTr\pe: '-xexported-', PDB: ject software ekur\lrapnf \S31aolaF�rl2:igCopUceu ts vewaror\nrinpEenx3Sk\Games\a0Åce Juig oicctappvtrsion tnonaueNNSIiMaLaJmeW0dSNna�yEndi(7.0Id.k0ll ersi  Jiiy6 C\iea ul:i ae)i
+\namTyp\e' a-exleoresion: -a5io2.D aC:\WManaged\UnityEn\Wgine2dlLL3, 0
+ messageon: 6. .9s6h0ar17415)
+
+Loading C:PUserl\Eiroim ur\Dropbox\SC:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll (Chis mesoss\SY isEM32\SspiCli
+.dll:Sspiili. C:\Uslr (74B60000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.17415
+i:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (6E8A0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.17415
+rikur\D:rWinboowS\SkSTEM\2�n�rl .2ll:ntdllt sof (77370000in,eesize: 1501003Färdisu produk, Svemrsion 1\Launorted-', PDB: 'C Juice\applScation_D2\anManll.d\Cn:,\EnWied.rws\w:SkTEM329600.1c8g mgr
+3tydaCl:ild Domain
+ll (75370000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSPEMa tcformreersemb2.g lJ\10s\ers\Eiri�ur\Dropboox\Skola\�rrsiooPn1j L.3so96whare aenm0.e1r4n5c
+e Ju100\Fce\appl�rdig pn_Data\Managed\ukt tyengine.dll into Unity Child Domain
+rsion 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (72170000), siLoa i1g C:\Us(eesult: 0), SymType: 'rs\portedE', ikur\Dro:\WindokwslaSY�TEM 2\Project sof',warleeenrgineering PJ3100\Fä5rd
+ig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll into Unity Child Domain
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74B50000), size: 40960 (result: 0), SymType: '-exportCd-', PDB: 'C:\Windows\SYSTEM32\CRYPTBAS:.dll', \\UleVersion: 6.3.9600.1741si
+rs\ndows\EYirEM32\KDEopNEL32.DLL:KERNEL32.DLL (76E30000), size: 1b1ox\0 (result: 0), SymType: '-exSkola\�r 2\Project software engineering PJ3100\F�rdiported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9g 0.17415
+produkt version 1\Launcher\Games\Space Juice\application.exe:application.exe (00C70000), size: 16965632 (result: 0), SymType: '-eCp:rtWindows\SYSTEM32\bcryedPrimitiv:s.dll:bcryptPrimi i'eC.dll (74AF0000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32:\cryersPrimitiEir.dlur\DCo:boVersows\ 6.2.M93Project softwE.dlle:KERNELBASE.Jdll (74E500 0),o ukt v: 8ersion 1<RI> Initiullizi0), input.pe:
+ '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion:06.3.9600.
+18202
+\Launcher\Games\SpaceRI> Input initialized.
+Platform assembly: C:\Users\Eirikur\Dropbo x\Skula\År 2\Project software engineering PJ3100\Färdig produkt version 1\LaunCh:r\Wimns\Sws\SY SuTEM32\shcore.dll:shcore.dll (73F30000), size: 569344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17666
+ce\application.exe', fileVersio:\Windows\SYSTEM32\HID.DLL:HID.DLL (70030000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fce\a5.2li2ca2io320
+ata\Managed\SystemCC:\e.sers\Eiis mes\Dropbox\Sarmola\s)
+ 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+ileVers- Completed reldows\Sad, in  1.006 seconds
+YSTEM32\PSAPI.DLL:PSAPI.DLL (74F30000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SdSeEs3k\tSop:I.DL2'0 fileVersion: 6.3.al: 0.1i4250
+x1080 at 0,0
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72EB0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (73060000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (71B20<00RI > zIn i9t075l2 (d sultc 0h suppmType: '-exported-', PDB: 'C:\Wondows\
+system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+on: 6.3.9600.17415
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77370000), size: 1503232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.18202
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (634F0000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17787
+
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (755D0000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNE=32.DLL (76E30000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEC3I= I\=KEt:ali32.INL STACK TR
+CE ==== fi=indows==n: 6.3.
+9
+600.17415
+l:USER32.dll (77140000), size: 10x00CAAFC2 (8ppl544 (resuit: R),I> Input i'-exporized', PDB: 'C:\Windows\SYSTEM32\USER32cadill', ) Reit.<en
+rsion:tT<int>
+00.18123
+0x00EE7DE6 (application) PlayerWinMain
+0x01260968 (application) RectT<int>::GetYMax
+0x0128F8E0 (application) RectT<int>::GetYMax
+0x76E47C04 (KERNEL32) BaseThreadInitThunk
+0x773CAB8F (C:\Windows\nSYSTEM32\KERNaLBASeExceptiERNEhLBn
+SE.dll (Cx:E3CABdo  si\e:(8ntdl0) RTlM3it\iaRi,eEycdTtlpe: hSeIO
+.dt
+= ('466PDB: , : ze So2768 STECEu===RN),BAyET.
+p
+dll , fileVersion: 6.3.9600.18202
+ted-', PDB: 'C:\Windows\SYSTE**** Crash! ****
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+M32\VERSION.dll', fileVersion: 6.3.96C0.17415
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (758C0000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17905
+<\RI> Initialized touch support.
+Windows\SYSTEM32\HID.DLL:HID.DLL C:\Win(o7s\SYSTEM32\SHLW0API.0ll:SHLWAPI 4ll ( (reB0ult: 0)i zye: 28m6Ty pe: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.17415
+(result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (755D0000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (77140000), size: 1388544 (result: 0), Cym:\pW:i'-dxoows\d-',EMD32 'DVAPI32.dll:ADVAPI32.dll (74DD0', fileVersio07904 (result8123
+, SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.18155
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (75620000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.18155
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig pCr:d\kWind owssiSon 1\LauncRSION.dles:\SERSION.dll (74pl60000)catize: 3a2768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.17415
+ta\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\EiriCur\DWopndows\SYSTEM32\olroje.dll:ole32r.dll gine(ring PJ3100\Färdig pr sukt  ver16ion 1\Lau12nchrr\Gamee\Space 0)uicSymappli: tion_Data\M-nag d\Dsse bly:-CSnhdrp-forwtsass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\ÅC 2:P\oWiedo ssSoSTEwa2re EeLngidnl:SriEnLg2.dll310(\FäF0000)ro dizke ve196sio16 \Launclet: am), SyamTeype: e\aexpocatido-_'ataPDB: 'C:\WinMowsa\Sd\AssMe2\SHELm3ly-C\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17905
+Sharp.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\DCop:ox\SkolanÅr 2\Project softwarI.dll:neerWiPI PdJ3100\6CB0000),produkt: 28si624 (resulch:e0r\Gammes\Spa'ceexJpocee\-'p,pPli: 'Cion_Dadtws\SMSTaM32\\HLssAPmb.dll',i ficript.sdol: 6.thi6s mes4sag
+e is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt versioll', fileVersion: 6.3.9600.18205
+n 1\Launcher\Games\Space JuicC:\W\application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\app:\Windows\SlSTcEM32oADVAPI32.dll:ADVAPI32.dll (74DD0000)n_size: 507904 (result: 0)ne.SymType (this mrted-' is harmless)
+ndows\SYaSTEM3 2\:\DVsers\32.dll'rikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\AmplifyColor.dll into Unity Child Domain
+indows\SYSTEM3,\OPENGL32.dll:OPENGL32.dll (6EAA0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.17415
+Platform assembly: C:\Users\Eirikur\Dropbox\Skola\År 2\Project software engineering PJ3100\Färdig produkt version 1\Launcher\Games\Space Juice\application_Data\Managed\System.Core.dll (this message is harmless)
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (71C40000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+- Completed reload, in  0.609 seconds
+ileVersion: 6.3.9600.18155
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (75620000), size: 1110016 :\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74FD0000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.17560
+(result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.18155
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (67270000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (759F0000), size: 19644416 (result: 0), SymType: '-exported-', PDB: 'C:\WindowsCS:\TEM32\SH\ELL3T.EM32\I fiMleVersion: 6.3l.9600.18205
+), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (6EAA0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersCo:\Wi.n.96ws\SY7415
+STEM32\DNSAPI.dll:DNSAPI.dll (74330000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17481
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (71C40000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74310000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74FD0000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.17560
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (743B0000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (67270000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (753B0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (753E0000), size: 798720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (74330000), size: 516096 (result: 0), SC:\Windows\SYSTType: 'EeMp32\NSI., PDB: .C:\Wind51C\SYST), size: 28672 (EMesult: 0), SymType2 '-NSAPI.dll', fileVersion: 6.3.9600.17481
+ted-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74310000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.17415
+CC:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (743B0000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll': \ileVersion: 6.3.9600CRT4.dll
+:RPCRT4.dll (75070000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17919
+C:\Windows\SYSTEM32\combase.dll:combase.dllC(:751W0000), size: 1560576 (result: 0), SymType: '-expos\SYSTEM32\ms'vcrt.dll:msvc\SYSTEM325c3E00se.dll'ze fil87V0 (sionul 6.3.t600.18202
+Type: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (751C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75070000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17919
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (76D00000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', f:leVersion: 6.3.9600.17734
+\Windo:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (6EA70000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+<RI> Initisalizing input.
+\:RI> InpuWindowt initialized.
+s\SYSTEM32\DDRAW.dll:DDRAW.dll (63FF0000), sYSTEM32\combase.dll:combase.dll (751D0000), size: 1560576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.18202
+ize: 9666:\Windows\SYSTEM36\s choetsult::sec0),t.Sly m76ype: D-exporte, sd-', PDB: 'C:eWindo6240s\SYresSlt: 0), SymTTpe: '-expAWrdll't d-',ileB: 'C:\WiVdews\SYSTEM3r\sion: 6.3dll', fileVer
+sion: 6.3.9600.17734
+C:C:\iindows\SSYSTEM32\WINMMBASE.dYlSTEM32\GL:3W.INM:GLU32.dll (61Cde10000p:  size: 180 60H ; virtual: 1, SymType: '0-,xp
+orted-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17415
+0), sizC:\Wen:ows 1S515EM32\MSCTF.dll:MSCTF.dll (754B0000), size: 1122304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.18081
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (74000000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.17415
+<RI> Initialized touch support.
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (74B60000), size: 1228502( esult: 0), SymType: '-exported-', tDB: 'C:\Windpe: '-exTorted-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+EM32\SspiCli.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (63FF0000), size: 966656 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (6E8A0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (71C10000), size: 143360 (result: 0), SymTy:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (75370000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (72170000),peize: 135:6 '(result: d), , PSB:m'Cype: nd-owsortYeTd-', WPNMMBA'E.d\W'i ndfileVeroion: SYSTEM32.9DEV0BJ1.415l'
+, fileVersion: 6.3.9600.17415
+C:\WinCo:\WSYSTEin32ows\SYSTEM32SCTF.dll (754BE.000), sill:CRYPTBASE.dll (74B50000), sype: '-exported-', PDB: 'SymType: '-exported-', PDB: 'C:\Windeows\sionTEM32\CRYPTBASE.dl
+l', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (74000000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (74B60000), size: 122880 (result: 0), SymC:\Windows\SYSTEM32\bcryptPrimitiype: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600v17415
+eC.dll:bcryptPrimitives.dllWindows\ (74AF000D), siMAz32.dll:DCIMAN32.dll (6E8A0mTy),e: 'z-: 2p8672 (result: 0), Syndows\SYSTEM32\bcryptPeimit:ve'.dllpor', f', Version: :\Windows\SYSTEM32\DC6.A3.2.dl0.1l15,
+ fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.ndll (753Y7TEM32\shcore. d4l57shc (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfomgr32.dll', fileVersionre:dll (79600317405
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (72170000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74B50000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (74AF0000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.18154
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll 073F)0000), size: 569ize: 3694 (resrult: 0) 0), mType: '-e'-exported- PDB: 'C:\Windows\SYSTEM32\shcorcore.dll', fileVirsionn: .3.9.96.017666
+
+C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDC:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt versionB1\Launcheers\Eirikur\Dropbox\r\Glames\SpPrace Juicftware ention_Datneeroin\mono.d PJ310ll:monog prod10kt versiosi 1\ 2293cher(Games\Space Juice\application_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+result: 0), SymType: '-exported-', PDB: 'C:\Users\Eirikur\Dropbox\Skola\�r 2\Project software engineering PJ3100\F�rdig produkt version 1\Launcher\Games\Space Juice\application_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (74F30000), size: 24576 (result: 0), SymTypC::'\-exported-', PDB: 'C:\WinWindoSYSTEM32\PSAPw.DLL',SfileVersion:.DLL:P60API.DLL (
+74F30000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WiCdows\SYSTs\MS32\MM32\MCK.dSWSOCK.dll:MSW (72KEB000072E), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWB00K.dll', fileV307200 (result: 0)7415
+mType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (73060000C),\siie: ows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (73060000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcor36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.17415
+C.\Windows\system32\uxtheme.dll:uxtheme.dll (71B20000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+dll', fileVersion: 6.:\Windows\SYSTEM32\dbghelp.dll:db3he.9600.17415
+p.dll (634F0000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17787
+C:
+\Windows\system32\uxtheme.dll:uxtheme.dll (71B20000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (634F0000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17787
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00CAAFC2 (application) RectT<int>::RectT<int>
+0x00EE7DE6 (application) PlayerWinMain
+0x01260968 (application) RectT<int>::GetYMax
+0x0128F8E0 (application) RectT<int>::GetYMax
+0x76E47C04 (KERNEL32) BaseThreadInitThunk
+0x773CAB8F (ntdll) RtlInitializeExceptionChain
+0x773CAB5A (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00CAAFC2 (application) RectT<int>::RectT<int>
+0x00EE7DE6 (application) PlayerWinMain
+0x01260968 (application) RectT<int>::GetYMax
+0x0128F8E0 (application) RectT<int>::GetYMax
+0x76E47C04 (KERNEL32) BaseThreadInitThunk
+**x77**A Crash! ****
+B8F (ntdll) RtlInitializeExceptionChain
+0x773CAB5A (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
