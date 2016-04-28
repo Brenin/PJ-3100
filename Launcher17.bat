@@ -1,1 +1,0 @@
-start LauncherVersion17.exe -popupwindow
